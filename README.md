@@ -1,26 +1,25 @@
-# 🌐 Atividade HTML – Imagens, Links e Linha Divisória
+🌐 Atividade HTML – Imagens, Links e Linha Divisória
 
-Este projeto é uma atividade prática de **HTML5** que tem como objetivo treinar o uso de:  
-- Inserção de **imagens** com a tag `<img>`  
-- Criação de **links** com a tag `<a>`  
-- Uso da **linha divisória** com a tag `<hr>`  
+Este projeto é uma atividade prática de HTML5 que tem como objetivo treinar o uso de:
 
----
+Inserção de imagens com a tag img
 
-## 🛠️ Tecnologias utilizadas  
-- **HTML5**  
+Criação de links com a tag a
 
----
+Uso da linha divisória com a tag hr
 
-## 💻 Plataforma utilizada  
-- **Visual Studio Code (VS Code)**  
+🛠️ Tecnologias utilizadas
 
----
+HTML5
 
-## 🏗️ Estrutura Semântica do HTML  
-Exemplo de como as tags foram usadas na atividade:  
+💻 Plataforma utilizada
 
-```html
+Visual Studio Code (VS Code)
+
+🏗️ Estrutura Semântica do HTML
+
+Exemplo de como as tags foram usadas na atividade:
+
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
@@ -40,7 +39,6 @@ Exemplo de como as tags foram usadas na atividade:
     <p>Visite o <a href="https://www.w3schools.com/html/" target="_blank">W3Schools</a> para aprender mais sobre HTML!</p>
   </body>
 </html>
-```
 
 
 
