@@ -40,5 +40,6 @@ Visual Studio Code (VS Code)
 
 📸 Exemplo de visualização
 
-(adicione aqui uma captura de tela do site se desejar)
+<img width="597" height="425" alt="image" src="https://github.com/user-attachments/assets/1e42f9b9-1893-4126-9860-932c5bf656c2" />
+
 
