@@ -17,9 +17,6 @@ HTML5
 Visual Studio Code (VS Code)
 
 🏗️ Estrutura Semântica do HTML
-
-Exemplo de como as tags foram usadas na atividade:
-
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
@@ -39,6 +36,7 @@ Exemplo de como as tags foram usadas na atividade:
     <p>Visite o <a href="https://www.w3schools.com/html/" target="_blank">W3Schools</a> para aprender mais sobre HTML!</p>
   </body>
 </html>
+
 
 📸 Exemplo de visualização
 
