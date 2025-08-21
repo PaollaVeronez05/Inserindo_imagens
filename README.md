@@ -2,15 +2,19 @@
 
 Este projeto é uma atividade prática de HTML5 que tem como objetivo treinar o uso de:
 
-Inserção de imagens com a tag <img>
+Inserção de imagens com a tag img
 
-Criação de links com a tag <a>
+Criação de links com a tag a
 
-Uso da linha divisória com a tag <hr>
+Uso da linha divisória com a tag hr
 
 🛠️ Tecnologias utilizadas
 
 HTML5
+
+💻 Plataforma utilizada
+
+Visual Studio Code (VS Code)
 
 🏗️ Estrutura Semântica do HTML
 
@@ -40,11 +44,3 @@ Exemplo de como as tags foram usadas na atividade:
 
 (adicione aqui uma captura de tela do site se desejar)
 
-🚀 Como visualizar
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/atividade-html.git
-
-
-Abra o arquivo index.html no navegador.
